@@ -1,10 +1,1 @@
-https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/slobs/Meulenbeld-Sanskrit-Names-of-Plants__2020-06-21_05-10-20Z__0MB.slob
-https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/slobs/apte-1890__2020-06-21_05-10-20Z__6MB.slob
-https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/slobs/benfey__2020-06-21_05-10-20Z__2MB.slob
-https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/slobs/edgerton-buddhist-hybrid__2020-06-21_05-10-20Z__3MB.slob
-https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/slobs/goldstucker__2020-06-21_05-10-20Z__1MB.slob
-https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/slobs/mw-1872__2020-10-26_11-02-51Z__8MB.slob
-https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/slobs/shabda-sAgara__2020-06-21_05-10-20Z__5MB.slob
-https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/slobs/spokensanskrit__2019-01-12_05-13-52Z__20MB.slob
 https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/slobs/wilson__2020-06-21_05-10-20Z__5MB.slob
-https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/slobs/yates__2020-06-21_05-10-20Z__4MB.slob
