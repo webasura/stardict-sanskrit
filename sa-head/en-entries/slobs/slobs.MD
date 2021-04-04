@@ -9,6 +9,7 @@ https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/
 https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/slobs/edgerton-buddhist-hybrid__2020-06-21_05-10-20Z__3MB.slob  
 https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/slobs/goldstucker__2021-04-04_11-47-21Z__1MB.slob  
 https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/slobs/indian-epigraphical-glossary__2021-04-04_11-47-21Z__0MB.slob  
+https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/slobs/lanman__2021-04-04_14-30-18Z__0MB.slob  
 https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/slobs/macdonell__2021-04-04_11-47-21Z__2MB.slob  
 https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/slobs/mw-1872__2021-04-04_11-47-21Z__8MB.slob  
 https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/slobs/mw-cologne__2019-02-10_14-58-07Z__26MB.slob  
