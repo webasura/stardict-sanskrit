@@ -16,4 +16,4 @@ https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/
 https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/slobs/shabda-sAgara__2021-08-16_15-08-17Z__5MB.slob  
 https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/slobs/spokensanskrit__2019-01-12_05-13-52Z__20MB.slob  
 https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/slobs/wilson__2021-08-16_15-08-17Z__5MB.slob  
-https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/slobs/yates__2021-08-16_15-08-17Z__4MB.slob  
+https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/slobs/yates__2021-08-17_05-02-10Z__4MB.slob  
