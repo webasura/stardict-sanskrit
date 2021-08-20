@@ -3,4 +3,4 @@ https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/sa-entries/
 https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/sa-entries/tars/anekArthadhvanimanjarI__2021-02-15_08-59-55Z__0MB.tar.gz  
 https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/sa-entries/tars/ekAkSharanAmamAlA__2019-05-12_15-18-43Z__0MB.tar.gz  
 https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/sa-entries/tars/kalpadruma-sa__2021-08-16_15-08-17Z__11MB.tar.gz  
-https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/sa-entries/tars/vAchaspatyam-sa__2021-08-17_07-15-33Z__12MB.tar.gz  
+https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/sa-entries/tars/vAchaspatyam-sa__2021-08-20_02-08-06Z__12MB.tar.gz  
