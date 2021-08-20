@@ -3,4 +3,4 @@ https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/sa-entries/
 https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/sa-entries/slobs/anekArthadhvanimanjarI__2021-02-15_08-59-55Z__0MB.slob  
 https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/sa-entries/slobs/ekAkSharanAmamAlA__2019-05-12_15-18-43Z__0MB.slob  
 https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/sa-entries/slobs/kalpadruma-sa__2021-08-16_15-08-17Z__14MB.slob  
-https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/sa-entries/slobs/vAchaspatyam-sa__2021-08-20_02-08-06Z__14MB.slob  
+https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/sa-entries/slobs/vAchaspatyam-sa__2021-08-20_16-59-19Z__14MB.slob  
