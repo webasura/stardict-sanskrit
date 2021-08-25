@@ -1,7 +1,7 @@
 https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/tars/Meulenbeld-Sanskrit-Names-of-Plants__2021-08-16_15-16-30Z__0MB.tar.gz  
 https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/tars/Personal-and-Geographical-Names-in-the-Gupta-Inscriptions__2021-08-16_15-08-17Z__0MB.tar.gz  
 https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/tars/Vedic-Index-of-Names-and-Subjects__2021-08-16_15-08-17Z__0MB.tar.gz  
-https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/tars/apte-1890__2021-08-16_15-08-17Z__3MB.tar.gz  
+https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/tars/apte-1890__2021-08-25_02-53-30Z__3MB.tar.gz  
 https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/tars/apte-sa__2019-01-12_05-13-52Z__6MB.tar.gz  
 https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/tars/aufrecht-catalogus-catalogorum__2021-04-04_11-47-21Z__2MB.tar.gz  
 https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/tars/benfey__2021-08-18_23-33-53Z__1MB.tar.gz  

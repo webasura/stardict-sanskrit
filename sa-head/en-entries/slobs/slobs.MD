@@ -1,7 +1,7 @@
 https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/slobs/Meulenbeld-Sanskrit-Names-of-Plants__2021-08-16_15-16-30Z__0MB.slob  
 https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/slobs/Personal-and-Geographical-Names-in-the-Gupta-Inscriptions__2021-08-16_15-08-17Z__0MB.slob  
 https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/slobs/Vedic-Index-of-Names-and-Subjects__2021-08-16_15-08-17Z__1MB.slob  
-https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/slobs/apte-1890__2021-08-16_15-08-17Z__6MB.slob  
+https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/slobs/apte-1890__2021-08-25_02-53-30Z__6MB.slob  
 https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/slobs/apte-sa__2019-01-12_05-13-52Z__14MB.slob  
 https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/slobs/aufrecht-catalogus-catalogorum__2021-04-04_11-47-21Z__6MB.slob  
 https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/slobs/benfey__2021-08-18_23-33-53Z__2MB.slob  
