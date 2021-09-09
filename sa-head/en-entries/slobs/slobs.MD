@@ -4,12 +4,12 @@ https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/
 https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/slobs/apte-1890__2021-09-06_14-48-38Z__6MB.slob  
 https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/slobs/apte-sa__2019-01-12_05-13-52Z__14MB.slob  
 https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/slobs/aufrecht-catalogus-catalogorum__2021-09-06_14-48-38Z__6MB.slob  
-https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/slobs/benfey__2021-08-18_23-33-53Z__2MB.slob  
+https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/slobs/benfey__2021-09-09_02-32-29Z__2MB.slob  
 https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/slobs/capeller-sanskrit-english__2021-04-04_11-47-21Z__3MB.slob  
 https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/slobs/edgerton-buddhist-hybrid__2021-09-01_05-55-20Z__3MB.slob  
 https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/slobs/goldstucker__2021-09-06_14-48-38Z__1MB.slob  
 https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/slobs/indian-epigraphical-glossary__2021-09-06_14-48-38Z__0MB.slob  
-https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/slobs/lanman__2021-08-20_08-15-15Z__0MB.slob  
+https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/slobs/lanman__2021-09-09_02-32-29Z__0MB.slob  
 https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/slobs/macdonell__2021-04-04_11-47-21Z__2MB.slob  
 https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/slobs/mw-1872__2021-09-06_14-48-38Z__8MB.slob  
 https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/slobs/mw-cologne__2019-02-10_14-58-07Z__26MB.slob  
