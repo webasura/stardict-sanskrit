@@ -1,4 +1,4 @@
-https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/en-head/slobs/apte-bi__2022-01-15_10-10-07__18MB.slob  
+https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/en-head/slobs/apte-bi__2022-01-21_11-59-06__18MB.slob  
 https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/en-head/slobs/apte-english-sanskrit-cologne__2021-10-06_00-12-51Z__1MB.slob  
 https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/en-head/slobs/borooah__2021-10-05_14-23-18Z__2MB.slob  
 https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/en-head/slobs/carl__2021-10-22_01-24-27Z__0MB.slob  
