@@ -1,3 +1,3 @@
-https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/french-entries/tars/Stchoupak-Sanscrit-French__2021-12-18_13-20-56Z__2MB.tar.gz  
-https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/french-entries/tars/burnouf__2021-12-18_13-20-56Z__1MB.tar.gz  
+https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/french-entries/tars/Stchoupak-Sanscrit-French__2022-01-22_15-15-47Z__2MB.tar.gz  
+https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/french-entries/tars/burnouf__2022-01-22_15-15-47Z__1MB.tar.gz  
 https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/french-entries/tars/dictionnaire-heritage_du_sanskrit_san-fra__2019-05-15_15-41-49Z__2MB.tar.gz  
