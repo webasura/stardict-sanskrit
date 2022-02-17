@@ -1,1 +1,1 @@
-https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/other-entries/tars/bopp__2022-01-24_07-27-24Z__1MB.tar.gz  
+https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/other-entries/tars/bopp__2022-02-17_04-15-22Z__0MB.tar.gz  
