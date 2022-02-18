@@ -10,7 +10,7 @@ https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/
 https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/slobs/goldstucker__2022-02-17_04-15-22Z__1MB.slob  
 https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/slobs/indian-epigraphical-glossary__2022-02-17_04-15-22Z__1MB.slob  
 https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/slobs/lanman__2022-02-17_04-15-22Z__0MB.slob  
-https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/slobs/macdonell__2022-02-17_04-15-22Z__3MB.slob  
+https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/slobs/macdonell__2022-02-18_01-52-48Z__3MB.slob  
 https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/slobs/mw-1872__2022-02-17_04-15-22Z__10MB.slob  
 https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/slobs/mw-cologne__2022-02-17_04-15-22Z__35MB.slob  
 https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/slobs/shabda-sAgara__2022-02-17_04-15-22Z__7MB.slob  
